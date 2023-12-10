@@ -1,0 +1,181 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.0/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/theocastillo/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/sfml/2.6.1/lib/cmake/SFML/SFMLConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/sfml/2.6.1/lib/cmake/SFML/SFMLConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/sfml/2.6.1/lib/cmake/SFML/SFMLSharedTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/sfml/2.6.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/sfml/2.6.1/lib/cmake/SFML/SFMLConfigDependencies.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/theocastillo/CLionProjects/SFML/cmake-build-debug",
+		"source" : "/Users/theocastillo/CLionProjects/SFML"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
